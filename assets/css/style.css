@@ -12,6 +12,7 @@
    margin: 0 0 0 auto;  
 }
 
+
 .navbar .nav-item a{
     color:black !important;
     font-size: 20px;
@@ -68,3 +69,7 @@
     font-weight: bold;
   
 }
+.navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
