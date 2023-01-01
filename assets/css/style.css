@@ -34,7 +34,7 @@
 }
 /* Jumbotron  */
 .jumbotron {
-    background-image: url(../images/St-Stephens3.jpg);
+    background-image: url(/assets/images/St-Stephens3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height:500px;
