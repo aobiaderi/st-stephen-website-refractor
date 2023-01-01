@@ -1,0 +1,23 @@
+/* Adding styles to Navbar  */
+.navbar .navbar-brand {
+    color: white;
+    font-size: 24px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-left: 0; 
+    font-weight: bold;
+}
+
+.navbar .navbar-nav  {
+   margin: 0 0 0 auto;  
+}
+
+.navbar .nav-item a{
+    color:black !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar .nav-item a:hover{
+    background-color:white;
+}
