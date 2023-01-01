@@ -24,20 +24,20 @@
 
 
 .jumbotron h1 {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
-    color:black;
+    color:white;
     /* position: relative;
-    top: 90px; */
+    top: 110px; */
   
 
 }
 /* Jumbotron  */
 .jumbotron {
-    background-image: url(../images/St-Stephens2.jpg);
+    background-image: url(../images/St-Stephens3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height:600px;
+    height:500px;
     display: flex;
     align-items:center;
     justify-content:center;
@@ -45,20 +45,26 @@
  
 }
 .leader {
-    font-size: 44px !important;
+    font-size: 38px !important;
     font-weight: bold;
-    color:blue;
+    color:white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     /* position: relative;
-    top: 90px;  */
+    top: 110px;  */
 }
   
 .lead {
-    font-size: 36px !important;
+    font-size: 32px !important;
     font-weight: bold;
-    color:black;
+    color:white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     /* position: relative;
-    top: 90px;  */
+    top: 110px;  */
 }
  
+
+.my-wk{
+    font-size: 32px;
+    font-weight: bold;
+  
+}
