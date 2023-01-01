@@ -17,6 +17,13 @@ SO THAT I can meet my end goals for using the application
 
 You will be creating at least 8 acceptance criteria for the application that you will also meet.
 
+> **Note**: For this website, only the home page of the application should be refractored.You can achieve this by completing the following:
+
+* When the page is loaded, the home page presents the parish name, a background photo of the church building and information on the church activities.
+
+* When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
+
+
 ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
