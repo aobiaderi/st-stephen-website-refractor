@@ -21,3 +21,31 @@
 .navbar .nav-item a:hover{
     background-color:white;
 }
+
+
+.jumbotron h1 {
+    font-size: 30px;
+    font-weight: bold;
+    
+    
+
+}
+/* Jumbotron  */
+.jumbotron {
+    background-image: url(../images/St-Stephens2.jpg);
+    background-size: cover;
+   
+    background-repeat: no-repeat;
+    height:500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+.lead {
+    font-size: 24px !important;
+    font-weight: bold;
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
