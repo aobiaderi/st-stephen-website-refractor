@@ -64,7 +64,7 @@
 }
  
 
-.my-wk{
+.my-wk,.contact-1{
     font-size: 32px;
     font-weight: bold;
   
@@ -83,7 +83,7 @@
 /* Add styling to Contact section */
 
 .contact-section{
-    background-color: gray;
+    /* background-color: gray; */
     padding-top: 20px;
     padding-bottom: 60px;
     margin-bottom: 30px;
