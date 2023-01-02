@@ -21,13 +21,17 @@ You will be creating at least 8 acceptance criteria for the application that you
 
 * When the page is loaded, the home page presents the parish name, a background photo of the church building and information on the church activities.
 
-* The links and drop downs in navbar for "our parish" are redistributed to allow for better navigation.
+* The links and drop downs in the navbar are redistributed to allow for better navigation.
 
 * Use placeholders for the links and drop downs in navbar and style the home page using css.
 
 * All hyperlinks in the footer section should have a hover effect.
 
-* The main section is redesigned using bootsrap cards.
+* The main section is redesigned using bootstrap cards.
+
+* There is a JavaScript query to check if the user's color scheme preference is dark mode.
+
+
 
 * When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
