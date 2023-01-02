@@ -25,6 +25,9 @@ You will be creating at least 8 acceptance criteria for the application that you
 
 * Use placeholders for the links and drop downs in navbar and style the home page using css.
 
+* All hyperlinks in the footer section should have a hover effect.
+
+* The main section is redesigned using bootsrap cards.
 
 * When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
